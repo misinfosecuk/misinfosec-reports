@@ -9,6 +9,7 @@ So far, this collection includes reports from:
 * [Global Disinformation Index](https://www.disinformationindex.org)
 * [Recorded Future](https://www.recordedfuture.com/)
 * [FireEye](https://www.fireeye.com/)
+* [NATO Strategic Communications Centre of Excellence](https://stratcomcoe.org/)
 
 
 ## Contributing
