@@ -10,7 +10,8 @@ So far, this collection includes reports from:
 * [Recorded Future](https://www.recordedfuture.com/)
 * [FireEye](https://www.fireeye.com/)
 * [NATO Strategic Communications Centre of Excellence](https://stratcomcoe.org/)
-
+* [The Brookings Institution](https://brookings.edu)
+* [EU Disinfo Labs](https://disinfo.eu)
 
 ## Contributing
 
